@@ -1,15 +1,1 @@
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
-
-#testimage {
-    height: auto; 
-    width: auto; 
-    max-width: 300px; 
-    max-height: 300px;
-}
+/* Leaving empty for future work */
