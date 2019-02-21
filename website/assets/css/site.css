@@ -1,6 +1,7 @@
 /* Leaving empty for future work */
 /* test */
-p {
+@charset "UTF-8";
+
+li a {
   color: red;
-  text-align: center;
 }
